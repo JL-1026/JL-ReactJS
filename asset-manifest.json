@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JL-ActivityReactJS.git/static/css/main.e6c13ad2.css",
+    "main.js": "/JL-ActivityReactJS.git/static/js/main.959eb5e8.js",
+    "static/js/453.ed3810f9.chunk.js": "/JL-ActivityReactJS.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/JL-ActivityReactJS.git/index.html",
+    "main.e6c13ad2.css.map": "/JL-ActivityReactJS.git/static/css/main.e6c13ad2.css.map",
+    "main.959eb5e8.js.map": "/JL-ActivityReactJS.git/static/js/main.959eb5e8.js.map",
+    "453.ed3810f9.chunk.js.map": "/JL-ActivityReactJS.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.959eb5e8.js"
+  ]
+}
